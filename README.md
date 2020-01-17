@@ -1,2 +1,2 @@
 # DataMining-ClusteringMethods
- This a scholar project. 
+ This is a scholar project. 
